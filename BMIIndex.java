@@ -1,5 +1,7 @@
 // Written by Jamil Matheny
 // 08.09.2020
+// The BMI (Body Mass Index) Calculator v1.0 | Written in Java
+
 
 package weightClass;
 
