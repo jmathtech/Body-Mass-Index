@@ -1,3 +1,6 @@
+// Written by Jamil Matheny
+// 08.09.2020
+
 package weightClass;
 
 import java.util.Scanner;
