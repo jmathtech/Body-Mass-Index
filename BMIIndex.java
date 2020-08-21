@@ -9,7 +9,8 @@ import java.util.Scanner;
 
 
 // declarations
-public class BMIIndex {
+public class BMIIndex 
+{
 
 	double heightInches;
 	double weightPounds;
@@ -17,7 +18,8 @@ public class BMIIndex {
 	double weightKilos;
 	double bmi;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 		// TODO Auto-generated method stub
 		
 		// Title of the Program
