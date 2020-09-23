@@ -5,10 +5,10 @@ This is a weight class calculating the BMI (Body Mass Index) based on height and
 - Similar calculation from my weight BMI calculator in C++. The variables are included in the class method.
 
 ```java
-    double weightPounds = input.nextInt();
-		double heightMeters = heightInches * 2.54/100;
-		double weightKilos = weightPounds * 453.59/1000;
-		double bmi = weightKilos/(heightMeters * heightMeters);
+    	double weightPounds = input.nextInt();
+	double heightMeters = heightInches * 2.54/100;
+	double weightKilos = weightPounds * 453.59/1000;
+	double bmi = weightKilos/(heightMeters * heightMeters);
 ```
 
 # Here is an example
