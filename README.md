@@ -2,7 +2,7 @@
 This program measures the height and weight class to calculate the total BMI (Body Mass Index) based on user input.
 
 # What I've learned
-- Similar calculation from my weight BMI calculator in C++. The variables are included in the class method. (Weight-Class-BMI-Calculator - Github link)https://github.com/jmathtech/Weight-Class-BMI-Calculator
+- Similar calculation from my weight BMI calculator in C++. The variables are included in the class method. [Weight-Class-BMI-Calculator - Github link]https://github.com/jmathtech/Weight-Class-BMI-Calculator
 
 ```java
     	double weightPounds = input.nextInt();
